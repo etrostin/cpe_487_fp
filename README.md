@@ -1,5 +1,5 @@
 # Digital Systems Design Final Project -- Imitation Game on FPGA
-# By Eric Trostin and Isar Doshi
+### By Eric Trostin and Isar Doshi
 
 ## Table of Contents
 
