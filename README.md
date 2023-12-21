@@ -35,7 +35,7 @@ Utilizes a PRNG - A Pseudo-Random Number Generator based to generate random patt
 ## Prerequisites
 
 * Vivado
-* Nexys Artix A7-100t
+* Nexys A7-100t
 * Micro USB Cable
 * Zip folder containing this project
 
