@@ -1,6 +1,8 @@
 # Digital Systems Design Final Project -- Imitation Game on FPGA
 ### By Eric Trostin and Isar Doshi
 
+Demo Video: http://tinyurl.com/dsd-imitation
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -49,5 +51,8 @@ Utilizes a PRNG - A Pseudo-Random Number Generator based to generate random patt
 ## Usage
 
 * Repeat patterns appearing on the screen using the 4 buttons - BTNU, BTNR, BTND, BTNL
-  
+
+## Parts Required
+
+* No extra components were required for this project
 
